@@ -1,0 +1,15 @@
+{
+    "liveSassCompile.settings.formats": [
+
+        {
+            "format": "compressed",
+            "extensionName": ".css",
+            "savePath": "/assets/dist"
+        }
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#2B226A",
+        "titleBar.activeBackground": "#3C2F94",
+        "titleBar.activeForeground": "#FCFBFE"
+    }
+}
